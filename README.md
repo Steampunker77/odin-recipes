@@ -1,0 +1,1 @@
+The goal of this project was building a basic recipe website to practice HTML. I did it for the Odin Project. 
